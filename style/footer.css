@@ -1,0 +1,23 @@
+footer{
+    position: absolute;
+    bottom: 0%;
+    background-color: #111A3D;
+    height: 80px;
+    width: 100%;
+    
+    
+}
+
+.divfoot {
+    position: relative;
+    font-size: 20px;
+    height: 100%;
+}
+
+.textfoot {
+    position: relative;
+    color: white;
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%);
+}
