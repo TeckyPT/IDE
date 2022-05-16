@@ -2,9 +2,6 @@ footer{
     position: absolute;
     bottom: 0%;
     background-color: #111A3D;
-    height: 50px;
-    width: 100%;
-    
     
 }
 
@@ -18,6 +15,7 @@ footer{
     position: relative;
     color: white;
     text-align: center;
+    font-size: 15px;
     top: 50%;
     transform: translateY(-50%);
     font-size: 15px;
