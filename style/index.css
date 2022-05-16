@@ -1,5 +1,5 @@
 header {
-    height: 140px;
+    height: 100px;
     width: 100%;
     background-color: #111A3D;
 }
@@ -7,4 +7,8 @@ header {
 
 body {
     margin: 0;
+}
+
+.imglogo{
+    height: 100px;
 }
